@@ -1,0 +1,19 @@
+
+.picker-container{
+    display: flex;
+    justify-content:space-around;
+    padding: 0.5em;
+}
+.tile-viewer-container{
+    height: 100%;
+    width: 100%;
+    padding: 1em;
+    overflow-x: auto;
+}
+
+.size-slider{
+    display: flex;
+    align-items: center;
+    padding: 0.5em;
+    justify-content: space-around;
+}
